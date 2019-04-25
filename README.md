@@ -12,9 +12,7 @@ removing something: `Remove [what removed added in the commit]`<br>
 editing something existing: `Edit [what edited added in the commit]`<br>
 fixing a bug: `Fix [the feature that was fixed]`<br>
 
-Add also the issue number to end of commit messages.
-
-**Example:** `git commit -m 'Add background image to frontpage #30'`
+**Example:** `git commit -m 'Add background image to frontpage'`
 
 ### Branch names:
 
